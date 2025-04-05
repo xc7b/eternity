@@ -104,9 +104,9 @@ getgenv().Eternity = {
 				['[DrumShotgun]'] = {
 					['Spread Percentage'] = 100,
 				},
-            },
-        },
-    	['Movement Related'] = {
+            		},
+        	},
+    		['Movement Related'] = {
 			['Movement Modifications'] = {
 				['Walkspeed'] = {
 					['Enabled'] = true,
